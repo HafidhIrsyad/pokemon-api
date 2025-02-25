@@ -1,18 +1,6 @@
 # Pokémon API
 
-A Python application that scrapes Pokémon data from the PokéAPI, stores it in a local SQLite database, and provides a JSON:API compliant REST API to access the data.
-
-## Features
-
-- 🔍 Scrapes data for 100 Pokémon from the PokéAPI
-- 💾 Stores data in a local SQLite database
-- 🌐 Provides JSON:API compliant endpoints
-- 📊 Includes detailed Pokémon information:
-  - Basic stats (height, weight)
-  - Types
-  - Abilities with descriptions
-  - Base stats
-- 📋 Supports pagination for listing Pokémon
+A Python application that scrapes Pokémon data from the PokéAPI, stores it in a local SQLite database, and build REST API to access the data pokemons.
 
 ## Installation
 
